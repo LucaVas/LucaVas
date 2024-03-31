@@ -7,7 +7,13 @@
 
 ## Who am I ?
 
-I am a software engineer with professional experience in back end development.
+I am a software developer crazy about developing backend services.
+
+Two things drive me every day:
+1. 🤲 Collaboration: working on projects with passionate developers and entrepreneurs gets me hiped-up like coffee on stereoids. 
+2. 🤼 Growth: there is nothing more rewarding that overcoming my weaknesses, and seeing such progress every day. Challenges fuel me to push forward and become a better me.
+
+If it sounds familiar, let's get in touch ✉️.
 
 <hr/>
 
