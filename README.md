@@ -55,9 +55,7 @@ If it sounds familiar, let's get in touch ✉️.
   <summary><b>Always learning</b></summary>
   <br/>
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
-![NuxtJS](https://img.shields.io/badge/NUXTJS-red?&style=flat&logo=nuxt&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?&style=flat&logo=googlecloud&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-black?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 
 <details>
